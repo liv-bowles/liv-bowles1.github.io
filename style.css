@@ -1,0 +1,235 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0px;
+    font-size: 1.5vh;
+    background-color: #BDF6FE;
+}
+
+#mainheader {
+    background-color: #7bc8f6;
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+body > header >img {
+    border-radius: 100%;
+    margin: 10px;
+    margin-left: 6%;
+    
+}
+
+
+#matchreport {
+    font-size: 60px;
+    text-shadow: 5px 5px #069AF3;
+}
+
+#nav-ul {
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-around;
+    color: whitesmoke;
+    margin-right: 7%;
+    padding: 0%;
+    
+}
+
+#nav-ul ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding 0%;
+}
+
+
+#nav-ul li {
+    list-style: none;
+    margin: 0%
+    padding: 0%;
+}
+
+.navbutton {
+    text-decoration: none;
+    font-size: 3vh;
+    color: whitesmoke;
+    margin: 15px; 
+    padding: 10px;
+    border: 1px solid #069AF3;
+    border-radius: 3%;
+}
+
+#rowone {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#report{
+    width: 60%;
+    margin: auto;
+}
+
+#opponenttitle > h2 {
+    font-size: 3vh;
+}
+
+#searchbuttons {
+    margin: auto;
+    text-decoration: none;
+    background-color: #7bc8f6;
+    border-radius: 2%;
+}
+
+#competitiontitle {
+    font-size: 2vh;
+    color: #BDF6FE;
+}
+
+#managertitle {
+    font-size: 2vh;
+    color: #BDF6FE;
+    align-items: center;
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+
+#competitiontitle> nav> ul > li > a {
+    text-decoration: none;
+    color: white;
+}
+
+.competitionbutton {
+    text-decoration: none;
+    color: white;
+    font-size: 2vh;
+
+}
+
+#textstyleone{
+    text-decoration: none;
+    list-style: none;
+}
+
+#textstyletwo{
+    list-style: none;
+}
+
+
+.managerbutton {
+    text-decoration: none;
+    color: white;
+    font-size: 2vh;
+}
+
+
+
+
+#extrainfo {
+    margin: auto;
+    background-color: #7bc8f6;
+    align-items: center;
+    color: whitesmoke;
+    border-radius: 3%;
+    text-align: center;
+    
+}
+
+#rightsection {
+    margin: auto;
+    
+    
+}
+
+
+
+
+
+#lineups {
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+}
+
+#poshsection {
+    background-color: #069AF3;
+    border-radius: 3%;
+    border: 1px, solid, white;
+    width: 20%;
+    margin-right: 10%;
+}
+#poshlineup {
+    color: white;
+    font-size: 3vh;
+    margin: auto;
+}
+.poshplayer {
+    color: whitesmoke;
+}
+
+
+
+
+
+
+#orientsection {
+    background-color: #fd4659;
+    border-radius: 3%;
+    border: 1px, solid, white;
+    width: 20%;
+    margin-left: 10%;
+}
+#oppositionlineup {
+    color: white;
+    font-size: 3vh;
+    margin: auto;
+}
+.orientplayer {
+    color: whitesmoke;
+}
+
+
+
+#formheader{
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin-bottom: 10px;
+}
+body > footer {
+    background-color: #7bc8f6;
+    display: flex;
+    margin-top: 0%;
+    align-items: center;
+}
+#footer-ul {
+    display: flex;
+    list-style: none;
+
+}
+
+#footer-ul > div > li {
+    margin-left: 12px;
+}
+
+#footer-ul > div > li > a {
+    color: white;
+    text-decoration: none;
+}
+
+
+hr{
+    color: #069AF3;
+}
+
+
+#footertitle{
+    color: whitesmoke;
+}
